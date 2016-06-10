@@ -20,4 +20,4 @@ def solve_cipher(input, shift = default)
 	 
 end
 
-solve_cipher("ifmmp", -1)
+solve_cipher("ifmmp", )
